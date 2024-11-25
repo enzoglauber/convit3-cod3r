@@ -79,8 +79,8 @@
     },
     {
       "type": "text",
-      "version": 172,
-      "versionNonce": 363294605,
+      "version": 173,
+      "versionNonce": 1140505010,
       "isDeleted": false,
       "id": "0l2coATgFj2NZII1AGHv4",
       "fillStyle": "solid",
@@ -100,7 +100,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1731527810455,
+      "updated": 1732535683149,
       "link": null,
       "locked": false,
       "fontSize": 34.044534708625456,
@@ -111,7 +111,7 @@
       "containerId": null,
       "originalText": "Componente",
       "lineHeight": 1.25,
-      "baseline": 30
+      "baseline": 29
     },
     {
       "type": "rectangle",
@@ -189,8 +189,8 @@
     },
     {
       "type": "text",
-      "version": 281,
-      "versionNonce": 242408387,
+      "version": 282,
+      "versionNonce": 426537582,
       "isDeleted": false,
       "id": "PvcDjcuDqlDzDlLcG5lCD",
       "fillStyle": "solid",
@@ -210,7 +210,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1731527810456,
+      "updated": 1732535683149,
       "link": null,
       "locked": false,
       "fontSize": 34.044534708625456,
@@ -221,7 +221,7 @@
       "containerId": null,
       "originalText": "Componente",
       "lineHeight": 1.25,
-      "baseline": 30
+      "baseline": 29
     },
     {
       "type": "rectangle",
@@ -299,8 +299,8 @@
     },
     {
       "type": "text",
-      "version": 393,
-      "versionNonce": 1804334573,
+      "version": 394,
+      "versionNonce": 1469887346,
       "isDeleted": false,
       "id": "ZJmTAd1VOl71F6X-cirAn",
       "fillStyle": "solid",
@@ -320,7 +320,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1731527810456,
+      "updated": 1732535683150,
       "link": null,
       "locked": false,
       "fontSize": 34.044534708625456,
@@ -331,7 +331,7 @@
       "containerId": null,
       "originalText": "Hook",
       "lineHeight": 1.25,
-      "baseline": 30
+      "baseline": 29
     },
     {
       "type": "arrow",
